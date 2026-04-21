@@ -6,7 +6,7 @@ const signUp = async (email: string, password: string) => {
   const { data, error } = await supabase.auth.signUp({
     email,
     password,
-    options: { data: { nickname: 'Tsuev ' } },
+    options: { data: { nickname: '' } },
   })
   if (error) {
     console.error('Error signUp in:', error.message)
