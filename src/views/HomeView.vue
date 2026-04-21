@@ -1,7 +1,11 @@
 <template>
-  <div class="w-full h-screen flex flex-col items-center justify-center"></div>
+  <div class="w-full h-screen flex items-center justify-center text-7xl">
+    Tsuev Vue Template
+  </div>
 </template>
 
-<script setup lang="ts"></script>
+<script setup lang="ts">
 
-<style lang="scss"></style>
+</script>
+
+<style lang="scss" scoped></style>
