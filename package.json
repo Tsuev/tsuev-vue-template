@@ -1,5 +1,5 @@
 {
-  "name": "tsuev-vue-template",
+  "name": "@tsuev/tsuev-vue-template",
   "version": "0.0.1",
   "license": "MIT",
   "repository": {
@@ -7,6 +7,9 @@
     "url": "git+https://github.com/Tsuev/tsuev-vue-template.git"
   },
   "homepage": "https://github.com/Tsuev/tsuev-vue-template#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "bugs": {
     "url": "https://github.com/Tsuev/tsuev-vue-template/issues"
   },
