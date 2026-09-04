@@ -1,7 +1,15 @@
 {
   "name": "tsuev-vue-template",
   "version": "0.0.0",
-  "private": true,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tsuev/tsuev-vue-template.git"
+  },
+  "homepage": "https://github.com/Tsuev/tsuev-vue-template#readme",
+  "bugs": {
+    "url": "https://github.com/Tsuev/tsuev-vue-template/issues"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite --host",
