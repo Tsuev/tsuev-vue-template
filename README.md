@@ -1,5 +1,8 @@
 # Tsuev Vue Template
 
+[![npm version](https://img.shields.io/npm/v/tsuev-vue-template.svg)](https://www.npmjs.com/package/tsuev-vue-template)
+[![npm downloads](https://img.shields.io/npm/dm/tsuev-vue-template.svg)](https://www.npmjs.com/package/tsuev-vue-template)
+
 Стартовый бойлерплейт для приложений на Vue 3. В проекте заранее настроены Vite, TypeScript, Tailwind CSS, PrimeVue, Pinia, Vue Router, Supabase, Axios и VueUse.
 
 Шаблон подходит как основа для SPA: можно сразу добавлять страницы, бизнес-логику, авторизацию, API-интеграции и переиспользуемые UI-компоненты.
